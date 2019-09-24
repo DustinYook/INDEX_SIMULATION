@@ -16,7 +16,7 @@
 ### 라우팅 시스템
 ![](https://github.com/DustinYook/INDEX_SIMULATION/blob/master/image/RoutingModel.gif)
 
-### 에어컨 시스템
+### 콜드체인 온도관리 시스템
 ![](https://github.com/DustinYook/INDEX_SIMULATION/blob/master/image/AirConditioningSystem.gif)
 
 ### 연산처리 시스템
