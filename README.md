@@ -1,5 +1,8 @@
 # INDEX_SIMULATION
+
 **시뮬레이션 툴을 이용한 프로젝트를 한눈에 볼 수 있습니다.**
+
+**프로젝트 이름을 누르면 해당 프로젝트 저장소로 이동합니다.**
 
 -----
 ## [TAC-SCM을 이용한 공급망 최적화 시뮬레이션](https://github.com/DustinYook/Course_E-Commerce)
