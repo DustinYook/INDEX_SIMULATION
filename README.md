@@ -7,6 +7,7 @@
 -----
 ## [TAC-SCM을 이용한 공급망 최적화 시뮬레이션](https://github.com/DustinYook/Course_E-Commerce)
 
+![](https://github.com/DustinYook/INDEX_SIMULATION/blob/master/image/tacscm.gif)
 
 
 -----
