@@ -19,6 +19,3 @@
 
 ### 콜드체인 제어시스템
 ![](https://github.com/DustinYook/INDEX_SIMULATION/blob/master/image/AirConditioningSystem.gif)
-
-### 연산처리 시스템
-![](https://github.com/DustinYook/INDEX_SIMULATION/blob/master/image/UserMath.gif)
